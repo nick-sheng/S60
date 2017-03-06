@@ -1,2 +1,3 @@
 <?php
-	echo 'aaaaaa'
+	echo 'aaaaaa';
+	echo 'bbbbbb';
